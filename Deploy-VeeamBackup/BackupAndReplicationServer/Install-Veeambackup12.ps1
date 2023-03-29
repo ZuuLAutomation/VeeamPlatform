@@ -33,7 +33,6 @@
     Name: Install-VeeamBackup12.ps1
     Author: ZuuLAutomation
     Version: 1.0
-    Github repo: 
 
     This script was inspired by Chris Arceneaux' (https://github.com/carceneaux) Update-Veeam.ps1, found in the VeeamHub Github (https://github.com/VeeamHub/powershell/tree/master/BR-UpgradeV11)
 
